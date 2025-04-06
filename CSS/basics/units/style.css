@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#one {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+}
+#two {
+  width: 50%;
+  height: 50%;
+  background-color: lightblue;
+}
+#three {
+  width: 50vw;
+  height: 50vh;
+  background-color: lightgreen;
+}
+#four {
+  font-size: 32px;
+  width: 2em;
+  height: 2em;
+  background-color: lightcoral;
+}
+#five {
+    font-size: 69px;
+  width: 2rem;
+  height: 2rem;
+  background-color: orange;
+}
