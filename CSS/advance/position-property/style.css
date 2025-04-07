@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#box1 {
+    position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+    right: 300px
+}
+#box2 {
+  width: 100px;
+  height: 100px;
+  background-color: lightcoral;
+}
+#box3 {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+}
